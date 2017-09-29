@@ -595,7 +595,6 @@ nav .nav-search {
 	font-size: 34px;
 	font-weight: 700;
 	text-align: center;
-	/*line-height: 600px;*/
 	color: #fff;
 }
 
@@ -604,7 +603,6 @@ nav .nav-search {
 	font-size: 38px;
 	font-weight: 700;
 	text-align: center;
-	line-height: 600px;
 	color: #111;
 }
 
@@ -616,6 +614,7 @@ nav .nav-search {
 .sec-3 {
 	height: 400px;
 	background-color: #fff;
+	padding: 30px 0;
 }
 
 .sec-contacts {
