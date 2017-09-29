@@ -629,24 +629,19 @@ nav .nav-search {
 }
 
 .sec-contacts .unit {
-	-ms-flex-direction: row;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
+	display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     margin-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
 }
 
 .sec-contacts .unit-left {
-	-ms-flex: 0 0 auto;
-    -webkit-box-flex: 0;
-    flex: 0 0 auto;
-    max-width: 100%;
+    
 }
 
 .sec-contacts .unit-body {
-	display: inline-block;
 	margin-left: 15px;
 }
 
