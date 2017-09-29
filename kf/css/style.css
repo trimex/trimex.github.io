@@ -582,6 +582,10 @@ nav .nav-search {
     flex-direction: column;
 }
 
+.sec-1 a {
+	color: #D05D27;
+}
+
 .gray-bg {
 	position: absolute;
     background-color: #000;
