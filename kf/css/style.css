@@ -577,6 +577,9 @@ nav .nav-search {
 	overflow: hidden;
 	height: 600px;
 	position: relative;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .gray-bg {
