@@ -592,10 +592,10 @@ nav .nav-search {
 
 .slogan1 {
 	text-transform: uppercase;
-	font-size: 38px;
+	font-size: 34px;
 	font-weight: 700;
 	text-align: center;
-	line-height: 600px;
+	/*line-height: 600px;*/
 	color: #fff;
 }
 
